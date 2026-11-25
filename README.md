@@ -1,6 +1,6 @@
 # create-graspr-static
 
-![Graspr](graspr.png)
+![Handlr](handlr.png)
 
 Scaffold a new [Graspr](https://github.com/phillipsharring/graspr-static-skeleton) static site (Vite + Tailwind + custom HTML components).
 
